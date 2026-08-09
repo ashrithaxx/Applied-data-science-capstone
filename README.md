@@ -31,9 +31,10 @@ Final capstone project for the **IBM Data Science Professional Certificate**.
 
 ## Key Findings
 
-*(Add a short summary here — e.g. which features most influenced landing success, which model performed best, and its accuracy)*
-
-
+- Launch success improved significantly over time, particularly from 2013 onward, with the highest success rates around 2019–2020.
+- KSC LC-39A emerged as the most reliable launch site, with a 76.9% success rate in the analysis.
+- Payload mass and launch success showed a positive relationship in the analysis; many higher-payload missions were successful.
+- Among the tested models, the Decision Tree performed best, achieving over 87% accuracy and recording zero false negatives in the shown confusion matrix.
 ---
 
 *Part of the IBM Data Science Professional Certificate.*
